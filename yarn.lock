@@ -1525,9 +1525,9 @@ boolbase@^1.0.0, boolbase@~1.0.0:
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
 bpjslib@^1.0.0:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/bpjslib/-/bpjslib-1.0.9.tgz#0e857f74da6323c48b6d2caeaee3f53803032a65"
-  integrity sha512-79MscXVv0RM7LJ/VFuliOjaKmDojHlzjxtOuixlZUYlBiqwPwWhLG3UX9Eiq9/bituZwlEUon+WKtuQJhrcYJw==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/bpjslib/-/bpjslib-1.1.0.tgz#4742343572879537ef8bdff7a2f0f51821f0877e"
+  integrity sha512-oSTjbxFCXktE2AYfyJ8+QdNfkbm9xdgIc/EXi8SRhrhcga6W39GVEGmYu0TR6yOD2eJWe8LX/SHCtnZZzPsvyw==
   dependencies:
     "@babel/cli" "^7.2.3"
     "@babel/polyfill" "^7.2.5"
