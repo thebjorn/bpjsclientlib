@@ -1,4 +1,4 @@
-import { MySubClass } from "../mysubclass"
+import { MySubClass } from "../mysubclass";
 
 
 test('test-myclass', () => {
